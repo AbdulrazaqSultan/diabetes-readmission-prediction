@@ -1,0 +1,46 @@
+{
+  "top5_linear_shap": [
+    {
+      "feature": "discharge_disposition_id_1",
+      "mean_phi": 0.024048174162024788,
+      "mean_abs_phi": 0.2888504500218103,
+      "direction": "increases"
+    },
+    {
+      "feature": "number_inpatient",
+      "mean_phi": 0.014547050034469577,
+      "mean_abs_phi": 0.24713299818272516,
+      "direction": "increases"
+    },
+    {
+      "feature": "age",
+      "mean_phi": 0.0015267705084853755,
+      "mean_abs_phi": 0.1823900406008674,
+      "direction": "increases"
+    },
+    {
+      "feature": "discharge_disposition_id_6",
+      "mean_phi": -0.0020718929192330626,
+      "mean_abs_phi": 0.09483815311153132,
+      "direction": "decreases"
+    },
+    {
+      "feature": "number_diagnoses",
+      "mean_phi": 0.0014569172990464931,
+      "mean_abs_phi": 0.09182455237925058,
+      "direction": "increases"
+    }
+  ],
+  "top5_lightgbm_permutation": {
+    "number_inpatient": 0.07929446971940382,
+    "discharge_disposition_id": 0.014725206263600693,
+    "number_emergency": 0.005054677052256318,
+    "time_in_hospital": 0.0038273799739093894,
+    "diag_1": 0.0034907717920720006,
+    "num_lab_procedures": 0.0029624550753691026,
+    "num_procedures": 0.002679652971312424,
+    "number_diagnoses": 0.0026029009343395805,
+    "diag_2": 0.0022991740707833663,
+    "insulin": 0.00211592584878858
+  }
+}
