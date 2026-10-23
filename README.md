@@ -10,7 +10,7 @@
 
 **End-to-end ML pipeline predicting hospital readmission within 30 days from the UCI Diabetes 130-US Hospitals dataset.**
 
-[📓 Open in Colab](https://colab.research.google.com/github/AbdulrazaqSultan/diabetes-readmission-prediction/blob/main/notebooks/colab_main.ipynb) · [📊 View Metrics](reports/metrics.md) · [🤗 Dataset](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
+[📓 Open in Colab](https://colab.research.google.com/github/AbdulrazaqSultan/diabetes-readmission-prediction/blob/main/notebooks/colab_main.ipynb) · [📊 View Metrics](reports/metrics.md) · [📖 الدليل الشامل بالعربية (Arabic Guide)](docs/PROJECT_SUMMARY_AR.md) · [🤗 Dataset](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008)
 
 </div>
 
